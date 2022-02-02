@@ -38,6 +38,6 @@ app.post("/failure", (req, res) => {
 
 
 // starts server
-app.listen(port, () => {
+app.listen(process.env.PORT || port, () => {
   console.log("App run on port " + port);
 });
