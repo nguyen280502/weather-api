@@ -1,0 +1,19 @@
+{
+  "name": "weather-api",
+  "version": "1.0.0",
+  "description": "weather api from openweather",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nguyen280502/weather-api.git"
+  },
+  "author": "Anh Nguyen",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nguyen280502/weather-api/issues"
+  },
+  "homepage": "https://github.com/nguyen280502/weather-api#readme"
+}
